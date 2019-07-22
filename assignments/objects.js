@@ -18,12 +18,19 @@ const example = {
 }
 
 // Write your intern objects here:
-
+const companyList = {
+  "mitzi": {name: "Mitzi", gender: "F", email: "mmelloy0@psu.edu"},
+  "Kennan": {name: "Kennan", gender: "M", email: "kdiben1@tinypic.com"},
+  "Keven": {name: "Keven", gender: "M", email: "kmummery2@wikimedia.org"},
+  "Gannie": {name: "Gannie", gender: "M", email: "gmartinson3@illinois.edu"},
+  "Antonietta": {name: "Antonietta", gender: "F", email: "adaine5@samsung.com"}
+}
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
+
 
 // Kennan's ID
 
